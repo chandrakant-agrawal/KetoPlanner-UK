@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetoPlanner.Server", "KetoPlanner.Server\KetoPlanner.Server.csproj", "{8414C46A-C919-4AE8-B047-0669DDCDA2D5}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ketoplanner.client", "ketoplanner.client\ketoplanner.client.esproj", "{CA59762A-C099-463E-B71D-8CFE433D9C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8414C46A-C919-4AE8-B047-0669DDCDA2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8414C46A-C919-4AE8-B047-0669DDCDA2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8414C46A-C919-4AE8-B047-0669DDCDA2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8414C46A-C919-4AE8-B047-0669DDCDA2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA59762A-C099-463E-B71D-8CFE433D9C38}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA8EB80-7FBB-431C-8F9D-5309242AE689}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@KetoPlanner.Server_HostAddress = http://localhost:5129
+
+GET {{KetoPlanner.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
